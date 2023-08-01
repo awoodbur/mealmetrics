@@ -1,13 +1,21 @@
-# GitHub Codespaces ♥️ Next.js
+# GPT-3 app built with Nextjs, React & GitHub Copilot
 
-Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
+### Find the nutritional data for any recipe with AI 🤖
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+## Running the App
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Clone the repository to your local machine and complete the following steps:
 
-To run this application:
+1. Update the [.env.example](/.env.example) file to include your apikey
+2. Change the name of the file to `.env`
+3. Run `npm i`
+4. Run `npm run devserver` to start the server
+5. Run `npm run dev` to start the app
+6. Go to http://localhost:3000 to view app and make requests
 
-```
-npm run dev
-```
+You can input any recipe from the web or your favorite recipe! Have Fun!
+
+*Note: Results may vary.*
+
+
+<img width="1512" alt="mealmetrics-app" src="https://github.com/LadyKerr/mealmetrics-copilot/assets/47188731/7156c437-08a4-4ef4-8927-839ca6a70c80">
