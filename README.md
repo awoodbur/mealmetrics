@@ -18,4 +18,4 @@ You can input any recipe from the web or your favorite recipe! Have Fun!
 *Note: Results may vary.*
 
 
-<img width="1512" alt="mealmetrics-app" src="https://github.com/LadyKerr/mealmetrics-copilot/assets/47188731/7156c437-08a4-4ef4-8927-839ca6a70c80">
+<img width="1512" alt="mealmetrics-app" src="https://github.com/awoodbur/mealmetrics/blob/main/mealmetrics.png">
