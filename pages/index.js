@@ -26,7 +26,7 @@ function HomePage() {
     setLoading(true);
     try {
       const response = await fetch(
-        "https://mealmetrics-awoodbur.netlify.app/openai/generateinfo",
+        "http://localhost:8080/openai/generateinfo",
         {
           method: "POST",
           headers: {
