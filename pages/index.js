@@ -27,7 +27,7 @@ function HomePage() {
     try {
       
       const response = await fetch(
-        "https://mealmetrics-awoodbur.netlify.app/openai/generateinfo",
+        "https://mealmetrics-awoodbur.netlify.app/.netlify/functions/generateInfo",
         {
           method: "POST",
           headers: {
